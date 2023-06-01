@@ -10,5 +10,6 @@ To run Backend:
 
 To run Frontend:
 1) Extract the frontend folder, open that folder in Visual studio code.
+2) Ensure that you have node.js installed in your system.
 2) Run 'npm start' command in the terminal.
 3) The application will start running on browser with default port : 3000
